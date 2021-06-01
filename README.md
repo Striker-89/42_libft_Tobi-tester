@@ -18,6 +18,6 @@ There are great testers outside on GitHub but this tester can also test NULL poi
 
 
 # Issues
-  ft_lstmap not covered
-  ft_lstdelone excluded from valgrind tests (will cuase mem leaks)
-  all print functions have to be checked manually (write it to a file and diff it)
+  1. ft_lstmap not covered
+  2. ft_lstdelone excluded from valgrind tests (will cuase mem leaks)
+  3. all print functions have to be checked manually (write it to a file and diff it)
